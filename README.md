@@ -57,8 +57,9 @@
 
 ## 最佳免费托管服务
 
-### **InfinityFree**
-![InfinityFree](https://www.infinityfree.net/logo.png)
+### **[InfinityFree](https://www.infinityfree.com/)**
+
+![image](https://github.com/user-attachments/assets/a7561470-a326-4053-8712-c0a503d68d53)
 
 #### 规格
 - **存储空间**: 5GB
@@ -82,8 +83,9 @@
 
 ---
 
-### **GoogieHost**
-![GoogieHost](https://www.googiehost.com/logo.png)
+### **[GoogieHost](https://googiehost.com/)**
+
+![image](https://github.com/user-attachments/assets/4d795a92-1f6a-473b-b85b-d22dabbe4d99)
 
 #### 规格
 - **存储空间**: 1GB NVMe
@@ -106,8 +108,9 @@
 
 ---
 
-### **Freehostia**
-![Freehostia](https://www.freehostia.com/logo.png)
+### **[Freehostia](https://www.freehostia.com/)**
+
+![image](https://github.com/user-attachments/assets/8a0b16aa-f11a-4d80-9480-e687ad6a516f)
 
 #### 规格
 - **存储空间**: 250MB
@@ -129,8 +132,9 @@
 
 ---
 
-### **FreeHosting**
-![FreeHosting](https://www.freehosting.com/logo.png)
+### **[FreeHosting](https://www.freehosting.com/)**
+
+![image](https://github.com/user-attachments/assets/5cd2c08b-2c81-4ddb-986d-89b229e26ad2)
 
 #### 规格
 - **存储空间**: 10GB
@@ -152,8 +156,9 @@
 
 ---
 
-### **Hostinger 独家优惠**
-![Hostinger](https://www.hostinger.com/logo.png)
+### **[Hostinger 独家优惠](https://www.hostinger.com/)**
+
+![image](https://github.com/user-attachments/assets/5df58f79-c67e-4fa5-a964-f126a1d3c147)
 
 #### 规格
 - **存储空间**: 100GB
@@ -208,7 +213,4 @@
 
 ---
 
-## 元描述
-
-2025 年最佳免费网站托管服务推荐，涵盖 InfinityFree、GoogieHost 等真正免费的托管服务，适合个人博客、小型项目和测试用途。
 
